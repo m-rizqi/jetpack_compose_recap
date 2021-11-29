@@ -1,4 +1,4 @@
-package jetpack.compose.recap.data.model
+package jetpack.compose.recap.data
 
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.runtime.Composable
